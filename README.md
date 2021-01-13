@@ -1,4 +1,4 @@
-# 🏗️ Boilerplate for Nuxt, Tailwind & NetlifyCMS
+# 🏗️ GestionHSEQ main site
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/536e3466-f628-4428-a0ba-f92a0b226223/deploy-status)](https://app.netlify.com/sites/practical-booth-a3a819/deploys)
 
