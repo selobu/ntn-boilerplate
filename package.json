@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "gestion-hseq",
   "version": "1.0.0",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
+  "description": "Gestion de la seguridad, salud en el trabajo y medio ambiente",
+  "author": "sebastian López Buriticá <selobu@gmail.com> (https://www.gestionhseq.com)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
