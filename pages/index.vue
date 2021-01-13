@@ -1,8 +1,8 @@
 <template>
   <div class="main text-center flex flex-col items-center justify-center">
     <!-- <logo /> -->
-    <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
-    <h2 class="subtitle">Boilerplate</h2>
+    <h1 class="title">GestionHSEQ</h1>
+    <h2 class="subtitle">Seguridad, salud y medioambiente</h2>
   </div>
 </template>
 
