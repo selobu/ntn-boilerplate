@@ -1,17 +1,18 @@
 <template>
   <div class="main text-center flex flex-col items-center justify-center">
-    <Logo />
+    <logo />
     <h1 class="title">GestionHSEQ</h1>
     <h2 class="subtitle">Seguridad, salud y medioambiente</h2>
+    <h3 class="subtitle">Software y asesorías</h3>
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import logo from '~/components/Logo.vue'
 
 export default {
   components: {
-    Logo,
+    logo,
   },
   head() {
     return {
